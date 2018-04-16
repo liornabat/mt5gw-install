@@ -14,7 +14,7 @@ Web service api responsible for query commands
 1. Install both vc_redist.x64_2017 and vc_redist.x64_2013 on the server you want as a gateway. if you need 32 bit , install the x86 version. (You can find the installtions in /vc folder)
 2. Copy the latest releases from files folder for Api and Fix (with the related x86 or x64)
 3. Put all the configuration files (see below) in the relevant folders
-4. Run the apps directly ( might need Run as Administrator) or run it with -i <service_name> to ccreate a service
+4. Run the apps directly ( might need Run as Administrator) or run it with -i <service_name> to create a service
 
 __IMPORTANT: MAKE SURE THAT MT5WebAPI.lic and FIXAPI.MT5.lic ARE COPIED TO__
 ## Configurations
