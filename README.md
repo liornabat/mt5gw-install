@@ -47,7 +47,7 @@ PersistMessages = N
 
 BeginString = FIX.4.4
 
-HttpServer = http://mt5.tradnecy-ext.com:13081/
+HttpServer = http://hots:port/
 
 [SESSION]
 SocketAcceptPort = 13001
@@ -77,9 +77,9 @@ file name config.json
 ```
 {
     "Credentials": {
-        "Server": "91.207.78.250:56578",
-        "Login": 1111,
-        "Password": "gbE10jH5Ny",
+        "Server": "host:port pf MT5 server",
+        "Login": mt5-account-login,
+        "Password": "mt5-login-password",
         "PasswordCert": null,
         "ConnectionTimeout": 30000
     }
@@ -97,10 +97,10 @@ File name: MT5WebAPI.json
 ```
 {
     "Binding": {
-        "Url": "http://mt5.tradency-ext.com:13088"
+        "Url": "http://hots:port"
     },
     "MT5": {
-        "Server": "91.207.78.250:56579",
+        "Server": "host:port of MT5 server",
         "ConnectionTimeout": 30,
         "StoreTime": 0
     }
