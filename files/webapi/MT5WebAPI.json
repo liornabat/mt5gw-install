@@ -1,0 +1,10 @@
+{
+    "Binding": {
+        "Url": "http://localhost:13088"
+    },
+    "MT5": {
+        "Server": "91.207.78.250:56579",
+        "ConnectionTimeout": 30,
+        "StoreTime": 0
+    }
+}

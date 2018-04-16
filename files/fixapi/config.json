@@ -1,0 +1,9 @@
+{
+  "Credentials": {
+    "Server": "91.207.78.250:56578",
+    "Login": 1111,
+    "Password": "gbE10jH5Ny",
+    "PasswordCert": null,
+    "ConnectionTimeout": 30000
+  }
+}
